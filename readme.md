@@ -13,7 +13,7 @@
 "Seattle, WA" -> **geocode** -> {lat: 47.6062095, lng: -122.3320708}
 
 ### Mapbox
-We'll use the [Mapbox Geocoding API](https://www.mapbox.com/api-documentation/#geocoding). Mapbox is a system of geolocation-related APIs, similar to the Google Maps API. Lyft, the Weather Channel, and many other large companies use Mapbox to incorporate maps into their apps. 
+We'll use the [Mapbox Geocoding API](https://www.mdocumentationapbox.com/api-/#geocoding). Mapbox is a system of geolocation-related APIs, similar to the Google Maps API. Lyft, the Weather Channel, and many other large companies use Mapbox to incorporate maps into their apps. 
 
 ## Get Geocoding
 
